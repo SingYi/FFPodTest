@@ -1,0 +1,16 @@
+PODS:
+  - FFPodTest (0.1.0)
+
+DEPENDENCIES:
+  - FFPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  FFPodTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FFPodTest: 7ab0a6cb744309231507cb947cdfedb69933d3a5
+
+PODFILE CHECKSUM: e9a2ec52acde86581214e4d4879b8cd1b003fbd8
+
+COCOAPODS: 1.2.1
